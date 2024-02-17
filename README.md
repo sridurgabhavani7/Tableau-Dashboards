@@ -3,7 +3,7 @@ In this project we analyse a dataset we got from 'Real World Fake Data' using SQ
 
 The link to the dataset : https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv
 
-note: They have awesome datasets ! so feel free to choose whatever dataset you want from it, I picked the call-center one.
+note: I have Used MySQL Database to Clean the data and Perform EDA after that I have visualized it using Tableau
 
 Steps we did :
 
