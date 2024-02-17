@@ -47,7 +47,7 @@ Execute SQL queries provided in sql_queries.sql for exploratory data analysis.
 
 **Tableau Visualization**:
 
-Open the Tableau workbook Tableau_Dashboard.twb to explore visualizations.
+Download and Open the Tableau workbook CallCenter_Dashboard.twb to explore visualizations.
 
 **Contributors**:
 Armonia
