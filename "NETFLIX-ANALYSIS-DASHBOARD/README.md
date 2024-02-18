@@ -16,7 +16,7 @@ You can view the Tableau dashboard by visiting the following link:
 1. **Line Chart - Netflix Breakout Year (2017):**
    - Visualize the evolution of Netflix shows over the years.
    - Highlight the breakout year of 2017 to emphasize the growth and significance.
-2.**Pie Chart - **Pie Chart - Duration Distribution by Types:**
+2. **Pie Chart - Duration Distribution by Types:**
    - Objective: Understand the distribution of show durations categorized by types (movies or TV shows).
    - Visualization: A pie chart visually represents the proportion of total duration for each type.
 
